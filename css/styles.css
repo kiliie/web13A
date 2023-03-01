@@ -10,3 +10,7 @@ thead tr, th{
     border: 1px solid #0c582c;
     background-color:red;
 }
+
+tfoot{
+    background-color: aquamarine;
+}
